@@ -98,8 +98,8 @@ Dynamic insight measures were also implemented to automatically generate executi
 
 
 ## Project Files
-- `Mattiks Glasses Business Analysis.pbix` – Power BI dashboard file
-- `Dashboard Screenshots` – Visual preview of dashboard pages
+- `Business_Analysis_Mattiks_Glasses` – Zip file
+
 
 
 ## Key Takeaways
