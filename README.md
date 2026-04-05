@@ -1,4 +1,4 @@
-# Mattiks Glasses Business Intelligence Dashboard
+# Mattiks Glasses Business Analysis
 ## Project Overview
 This project analyzes the business performance of **Mattiks Glasses**, an e-commerce eyewear retailer.  
 The objective was to transform raw transactional data into actionable insights that support strategic decision-making.
